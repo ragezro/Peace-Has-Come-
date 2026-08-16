@@ -2,7 +2,7 @@
 
 Mount any creature's trophy on an item stand to create a **peace zone** around
 it that will make a specific creature type stop spawning within that zone and stops creatures outside the zone from noticing or
-attacking you. Events that include creatures that have threir trophy mounted will not attack you in the **peace zone** while you're inside the zone — everything else in the world
+attacking you. Events that include creatures that have threir trophy mounted will not attack you while you're inside the **peace zone** — everything else in the world
 behaves normally.
 
 ## How it works
