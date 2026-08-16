@@ -72,7 +72,7 @@ name.
   "peaceful" creature will still flee if hurt and still avoid fire.
 - Multiplayer: config values only take effect on whichever machine is
   actually running the world (the host, or the dedicated server).
-- Dungeons, etc. are not affexted if they are located in your ***peace zone*** and will generate hostile creatures.
+- Dungeons, etc. are not affected if they are located in your ***peace zone*** and will generate hostile creatures.
 - Creatures on the outside of a dungeon will still spawn but are passive.
 
 ## Credits
